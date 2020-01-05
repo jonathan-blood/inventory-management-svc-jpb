@@ -4,7 +4,6 @@ import static java.util.Arrays.asList;
 
 import java.util.List;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Service;
 
 import com.ibm.inventory_management.models.StockItem;

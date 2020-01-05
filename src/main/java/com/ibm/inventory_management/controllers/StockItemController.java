@@ -1,6 +1,5 @@
 package com.ibm.inventory_management.controllers;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import com.ibm.inventory_management.services.StockItemApi;
