@@ -1,2 +1,4 @@
 {
+    "DATABASE_NAME": "inventory-dev-jpb",
+    "CLOUDANT_CONFIG": "{\"apikey\": \"tZqqpPtt9t1ipJhaB1XEj-VW9RMlA_MVxLv80R3PNGKc\",\"host\": \"5fa0bbac-af97-406d-b5c7-181320e60410-bluemix.cloudantnosqldb.appdomain.cloud\",\"iam_apikey_description\": \"Auto-generated for key 5b9642e8-92c8-4bf3-b255-949bdfebbf69\",\"iam_apikey_name\": \"mooc-two-iks-cloudant-key\",\"iam_role_crn\": \"crn:v1:bluemix:public:iam::::serviceRole:Manager\",\"iam_serviceid_crn\": \"crn:v1:bluemix:public:iam-identity::a/b636d1d83e34d7ae7e904591ac248cfa::serviceid:ServiceId-aea3b3e7-360f-4526-9f83-a6a8914b8713\",\"password\": \"f098fa246da4fa1c09269e3f26b34d3c7fff89f88f5f6d8245e0b2f5d3416168\",\"port\": 443,\"url\": \"https://5fa0bbac-af97-406d-b5c7-181320e60410-bluemix:f098fa246da4fa1c09269e3f26b34d3c7fff89f88f5f6d8245e0b2f5d3416168@5fa0bbac-af97-406d-b5c7-181320e60410-bluemix.cloudantnosqldb.appdomain.cloud\",\"username\": \"5fa0bbac-af97-406d-b5c7-181320e60410-bluemix\"}"
 }
